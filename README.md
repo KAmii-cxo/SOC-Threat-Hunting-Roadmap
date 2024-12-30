@@ -2,7 +2,7 @@
 
 # SOC Analyst Threat Hunting Career Roadmap
 
-I am interested in SOC roles in cybersecurity. This roadmap is designed to guide me and other aspiring SOC Analysts through the essential knowledge, tools, and methodologies for a successful career in threat hunting. 
+I am interested in SOC roles in cybersecurity. This roadmap is designed to guide me and other aspiring SOC Analysts through the essential knowledge, tools, and methodologies for a successful career especially in threat hunting. 
 
 ---
 
